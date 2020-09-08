@@ -1,6 +1,6 @@
 ## Mystery Word
 
-This is a mystery word game with some personality.  There are both traditional and sinister versions of mystery word.  The sinister version uses an evil algorithm that never actually chooses a word until it must.  Included in the repo is an annotated demonstration of that algorithm called word-sifter-demo.py
+This is a mystery word game with some personality.  There are both traditional and sinister versions of mystery word selectable from within the game.  The sinister version uses an evil algorithm that never actually chooses a word until it must.  Included in the repo is an annotated demonstration of that algorithm called word-sifter-demo.py
 
 The evil mystery word concept is set out in [this Nifty assignment](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).  
 
