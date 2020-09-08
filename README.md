@@ -5,6 +5,6 @@ This is a mystery word game with some personality.  There are both traditional a
 The evil mystery word concept is set out in [this Nifty assignment](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).  
 
 ### Requirements
-There is no environment required for this other than an installation of python 3.
+There is no environment required for this other than an installation of python 3.  If running on Windows, one may need to comment out or alter the lines relating to the clear lambda.  They are there to give a cleaner terminal experience, but are currently written for a Mac.  
 
 
