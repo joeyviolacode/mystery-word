@@ -7,4 +7,8 @@ The evil mystery word concept is set out in [this Nifty assignment](http://nifty
 ### Requirements
 There is no environment required for this other than an installation of python 3.  If running on Windows, one may need to comment out or alter the lines relating to the clear lambda.  They are there to give a cleaner terminal experience, but are currently written for a Mac.  
 
+### Warning
+
+Python 2 will give NameErrors on input, as input() has a slightly different function there.  Please do use Python 3.
+
 
