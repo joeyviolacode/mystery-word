@@ -14,3 +14,7 @@ Python 2 will give NameErrors on input, as input() has a slightly different func
 ## Of Special Note
 
 Please check out the word_sifter_demo.py file.  It demonstrates interactively the way that the word sifter behaves for the evil version.  I have included a very small library of words against which you can make guesses.  The demo then presents you with a full printout on how words are filtered so as to keep the word pool as large as possible so as to keep the narrowing of the field as difficult as possible.
+
+### Of Note
+
+Many of the methods/functions in this repo were initially constructed with list comprehensions.  As I was assisting other members of my cohort through their early coding experience, I realized list comprehensions were harder to understand for beginners than basic for loops (as they had been exposed to JS initially), so I converted all of this code to for loops in order to make it more accessible for study.
