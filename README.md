@@ -11,4 +11,6 @@ There is no environment required for this other than an installation of python 3
 
 Python 2 will give NameErrors on input, as input() has a slightly different function there.  Please do use Python 3.
 
+## Of Special Note
 
+Please check out the word_sifter_demo.py file.  It demonstrates interactively the way that the word sifter behaves for the evil version.  I have included a very small library of words against which you can make guesses.  The demo then presents you with a full printout on how words are filtered so as to keep the word pool as large as possible so as to keep the narrowing of the field as difficult as possible.
